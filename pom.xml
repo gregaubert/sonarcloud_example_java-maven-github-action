@@ -17,6 +17,9 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
+        <sonar.projectKey>gregaubert_sonarcloud_example_java-maven-github-action</sonar.projectKey>
+        <sonar.organization>gregaubert</sonar.organization>
+        <sonar.host.url>https://squad-3-core.sc-dev.io</sonar.host.url>
     </properties>
 
     <dependencies>
